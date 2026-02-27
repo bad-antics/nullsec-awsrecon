@@ -4,10 +4,10 @@
 
 [![Go](https://img.shields.io/badge/go-1.21+-00ADD8.svg)](https://golang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2.svg)](https://x.com/AnonAntics)
 
 > Part of the **NullSec Linux** security distribution  
-> Discord: [discord.gg/killers](https://discord.gg/killers)
+> Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## Features
 
